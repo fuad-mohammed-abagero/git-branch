@@ -1,1 +1,1 @@
-console.log(hello);
+const version = 2;
