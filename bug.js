@@ -1,1 +1,1 @@
-const isABug = true;
+const isABug = "true";
